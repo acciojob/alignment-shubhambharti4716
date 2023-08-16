@@ -8,6 +8,9 @@
     width: 80%;
     text-align: center;
   }
+.left {
+    text-align: left;
+  }
   .center {
     text-align: center;
   }
